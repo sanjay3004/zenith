@@ -1,0 +1,4 @@
+def user():
+    return None
+
+
